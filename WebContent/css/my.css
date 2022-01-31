@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/*폰트 주는 법
+웹폰트 쓰는 경우
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+폰트 파일 쓰는 경우
+@font-face {
+    font-family: 'neon'; 폰트 패밀리 이름은 임의 지정
+    src: url('../srcs/fonts/NeonPlanetDisplay.ttf') format('truetype');
+}
+
+h5{
+	font-family:'Noto Sans KR';
+	font-size:15px;
+}*/
+
+
+.my-timeline-heading{margin-top:45px;}
+
+.chart span {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    margin-top: -30px;
+    width: 100%;
+}

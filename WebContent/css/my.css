@@ -17,6 +17,14 @@ h5{
 	font-size:15px;
 }*/
 
+@font-face{
+    font-family: "yugothib";
+    src: url("../fonts/yugothib.ttf");
+ }
+
+.my-font{
+	font-family: "yugothib";
+}
 
 .my-timeline-heading{margin-top:45px;}
 
